@@ -1,4 +1,4 @@
-# Travel Management System
+# Travel Management System  #TripEase
 
 ## Overview
 The **Travel Management System** is a console-based C++ application designed to manage travel bookings, customer details, and destinations efficiently. It utilizes **Object-Oriented Programming (OOP)** principles and **file handling** to store and retrieve data persistently.
