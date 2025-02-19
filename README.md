@@ -18,3 +18,6 @@ The **Travel Management System** is a console-based C++ application designed to 
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/Travel-Management-System.git
+
+
+2. cd 
