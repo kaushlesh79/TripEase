@@ -21,19 +21,19 @@ The **Travel Management System** is a console-based C++ application designed to 
 
 
 2. Navigate to the project director
-```bash
-  cd Travel-Management-System
-```
+   ```bash
+     cd Travel-Management-System
+   ```
 
 3. Compile the C++ source file:
-```bash
-g++ main.cpp -o travel_system
-```
+   ```bash
+   g++ main.cpp -o travel_system
+   ```
 
 4.Run the application:
-```bash
-./travel_system
-```
+   ```bash
+   ./travel_system
+   ```
 
 ## Usage, File Handling, Future Enhancements & Contributing
 
@@ -62,5 +62,23 @@ The system uses text files to store and retrieve data, ensuring that records are
 2. Create a new branch:
    ```sh
    git checkout -b feature-branch
+   ```
 
 3.Make your changes and commit:
+  ```bash
+   git commit -m "Add new feature"
+
+  ```
+
+4.Push to the branch :
+```bash
+  git push origin feature-branch
+```
+
+5. Submit a pull request.
+```bash
+Let me know if you need any more changes! 🚀
+```
+
+
+
